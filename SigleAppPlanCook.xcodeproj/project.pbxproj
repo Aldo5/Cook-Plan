@@ -7,23 +7,30 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		6A52362D294A6AEA0079E4AD /* AddRecipeVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6A52362C294A6AEA0079E4AD /* AddRecipeVC.swift */; };
 		6A91BEA3294243790082EFB3 /* menuTVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6A91BEA2294243790082EFB3 /* menuTVC.swift */; };
-		6A91BEA5294251050082EFB3 /* Chilaquiles.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 6A91BEA4294251040082EFB3 /* Chilaquiles.jpeg */; };
-		6A91BEA72942510A0082EFB3 /* Licuado de platano.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 6A91BEA62942510A0082EFB3 /* Licuado de platano.jpeg */; };
-		6A91BEA92942516A0082EFB3 /* Hot cakes.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 6A91BEA82942516A0082EFB3 /* Hot cakes.jpeg */; };
+		6A9BC9B02948DB7600A24763 /* FoodC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6A9BC9AF2948DB7500A24763 /* FoodC.swift */; };
+		6A9BC9B22948DD7500A24763 /* Chilaquiles.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 6A9BC9B12948DD7400A24763 /* Chilaquiles.jpeg */; };
+		6A9BC9B42948DD7800A24763 /* Hot cakes.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 6A9BC9B32948DD7800A24763 /* Hot cakes.jpeg */; };
+		6A9BC9B62948DD7C00A24763 /* Licuado de platano.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 6A9BC9B52948DD7C00A24763 /* Licuado de platano.jpeg */; };
+		6A9BC9B82948DF7B00A24763 /* MyRecipeTVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6A9BC9B72948DF7B00A24763 /* MyRecipeTVC.swift */; };
 		6AB14B5D294113AE003F4326 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6AB14B5C294113AE003F4326 /* AppDelegate.swift */; };
 		6AB14B5F294113AE003F4326 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6AB14B5E294113AE003F4326 /* SceneDelegate.swift */; };
 		6AB14B61294113AE003F4326 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6AB14B60294113AE003F4326 /* ViewController.swift */; };
 		6AB14B64294113AE003F4326 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6AB14B62294113AE003F4326 /* Main.storyboard */; };
 		6AB14B66294113B2003F4326 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6AB14B65294113B2003F4326 /* Assets.xcassets */; };
 		6AB14B69294113B2003F4326 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6AB14B67294113B2003F4326 /* LaunchScreen.storyboard */; };
+		6AE9FB17294A464A005554E3 /* recipeTVCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6AE9FB16294A464A005554E3 /* recipeTVCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		6A52362C294A6AEA0079E4AD /* AddRecipeVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddRecipeVC.swift; sourceTree = "<group>"; };
 		6A91BEA2294243790082EFB3 /* menuTVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = menuTVC.swift; sourceTree = "<group>"; };
-		6A91BEA4294251040082EFB3 /* Chilaquiles.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = Chilaquiles.jpeg; path = ../../Chilaquiles.jpeg; sourceTree = "<group>"; };
-		6A91BEA62942510A0082EFB3 /* Licuado de platano.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "Licuado de platano.jpeg"; path = "../../Licuado de platano.jpeg"; sourceTree = "<group>"; };
-		6A91BEA82942516A0082EFB3 /* Hot cakes.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "Hot cakes.jpeg"; path = "../../Hot cakes.jpeg"; sourceTree = "<group>"; };
+		6A9BC9AF2948DB7500A24763 /* FoodC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FoodC.swift; sourceTree = "<group>"; };
+		6A9BC9B12948DD7400A24763 /* Chilaquiles.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = Chilaquiles.jpeg; path = ../../Chilaquiles.jpeg; sourceTree = "<group>"; };
+		6A9BC9B32948DD7800A24763 /* Hot cakes.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "Hot cakes.jpeg"; path = "../../Hot cakes.jpeg"; sourceTree = "<group>"; };
+		6A9BC9B52948DD7C00A24763 /* Licuado de platano.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "Licuado de platano.jpeg"; path = "../../Licuado de platano.jpeg"; sourceTree = "<group>"; };
+		6A9BC9B72948DF7B00A24763 /* MyRecipeTVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyRecipeTVC.swift; sourceTree = "<group>"; };
 		6AB14B59294113AE003F4326 /* SigleAppPlanCook.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SigleAppPlanCook.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		6AB14B5C294113AE003F4326 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		6AB14B5E294113AE003F4326 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -32,6 +39,7 @@
 		6AB14B65294113B2003F4326 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		6AB14B68294113B2003F4326 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		6AB14B6A294113B2003F4326 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		6AE9FB16294A464A005554E3 /* recipeTVCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = recipeTVCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -45,6 +53,26 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		6A52362A294A694C0079E4AD /* menu */ = {
+			isa = PBXGroup;
+			children = (
+				6AB14B60294113AE003F4326 /* ViewController.swift */,
+				6A91BEA2294243790082EFB3 /* menuTVC.swift */,
+			);
+			path = menu;
+			sourceTree = "<group>";
+		};
+		6A52362B294A69740079E4AD /* recipes */ = {
+			isa = PBXGroup;
+			children = (
+				6A9BC9B72948DF7B00A24763 /* MyRecipeTVC.swift */,
+				6AE9FB16294A464A005554E3 /* recipeTVCell.swift */,
+				6A9BC9AF2948DB7500A24763 /* FoodC.swift */,
+				6A52362C294A6AEA0079E4AD /* AddRecipeVC.swift */,
+			);
+			path = recipes;
+			sourceTree = "<group>";
+		};
 		6AB14B50294113AE003F4326 = {
 			isa = PBXGroup;
 			children = (
@@ -64,17 +92,17 @@
 		6AB14B5B294113AE003F4326 /* SigleAppPlanCook */ = {
 			isa = PBXGroup;
 			children = (
+				6A52362A294A694C0079E4AD /* menu */,
+				6A52362B294A69740079E4AD /* recipes */,
 				6AB14B5C294113AE003F4326 /* AppDelegate.swift */,
 				6AB14B5E294113AE003F4326 /* SceneDelegate.swift */,
-				6AB14B60294113AE003F4326 /* ViewController.swift */,
 				6AB14B62294113AE003F4326 /* Main.storyboard */,
 				6AB14B65294113B2003F4326 /* Assets.xcassets */,
 				6AB14B67294113B2003F4326 /* LaunchScreen.storyboard */,
 				6AB14B6A294113B2003F4326 /* Info.plist */,
-				6A91BEA2294243790082EFB3 /* menuTVC.swift */,
-				6A91BEA4294251040082EFB3 /* Chilaquiles.jpeg */,
-				6A91BEA62942510A0082EFB3 /* Licuado de platano.jpeg */,
-				6A91BEA82942516A0082EFB3 /* Hot cakes.jpeg */,
+				6A9BC9B12948DD7400A24763 /* Chilaquiles.jpeg */,
+				6A9BC9B32948DD7800A24763 /* Hot cakes.jpeg */,
+				6A9BC9B52948DD7C00A24763 /* Licuado de platano.jpeg */,
 			);
 			path = SigleAppPlanCook;
 			sourceTree = "<group>";
@@ -137,11 +165,11 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				6A91BEA5294251050082EFB3 /* Chilaquiles.jpeg in Resources */,
+				6A9BC9B62948DD7C00A24763 /* Licuado de platano.jpeg in Resources */,
+				6A9BC9B22948DD7500A24763 /* Chilaquiles.jpeg in Resources */,
 				6AB14B69294113B2003F4326 /* LaunchScreen.storyboard in Resources */,
+				6A9BC9B42948DD7800A24763 /* Hot cakes.jpeg in Resources */,
 				6AB14B66294113B2003F4326 /* Assets.xcassets in Resources */,
-				6A91BEA72942510A0082EFB3 /* Licuado de platano.jpeg in Resources */,
-				6A91BEA92942516A0082EFB3 /* Hot cakes.jpeg in Resources */,
 				6AB14B64294113AE003F4326 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -155,8 +183,12 @@
 			files = (
 				6AB14B61294113AE003F4326 /* ViewController.swift in Sources */,
 				6AB14B5D294113AE003F4326 /* AppDelegate.swift in Sources */,
+				6AE9FB17294A464A005554E3 /* recipeTVCell.swift in Sources */,
 				6A91BEA3294243790082EFB3 /* menuTVC.swift in Sources */,
+				6A9BC9B82948DF7B00A24763 /* MyRecipeTVC.swift in Sources */,
 				6AB14B5F294113AE003F4326 /* SceneDelegate.swift in Sources */,
+				6A52362D294A6AEA0079E4AD /* AddRecipeVC.swift in Sources */,
+				6A9BC9B02948DB7600A24763 /* FoodC.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
